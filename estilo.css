@@ -1,0 +1,94 @@
+
+body{
+  background-color: rgb(238, 248, 255);
+}
+h1{
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+  color: gray;
+  font-size: 45px;
+}
+
+h2{
+  font-family: 'Nanum Gothic', sans-serif;
+  color: blue;
+  margin: 10px;
+}
+
+.menu{
+  list-style: none;
+  padding: 0;
+  background: #092327;
+  width: auto;
+  /*max-width: 1000px;*/
+  margin: auto;
+}
+
+.menu li a{
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  display: block;
+}
+
+.menu li{
+  display: inline-block;
+  text-align: center;
+}
+
+.menu li:hover{
+  background: #ef8354;
+}
+
+#parrafo1{
+  font-family: 'Architects Daughter', cursive;
+  text-align: justify;
+  margin: 2px;
+}
+
+#Diseño{
+  font-family: 'Architects Daughter', cursive;
+  text-align: justify;
+  margin: 10px;
+}
+
+.imagen{
+ text-align: center;
+}
+
+ul li{
+  color: tomato;
+  font-family: 'Architects Daughter', cursive;
+
+}
+
+ol li{
+  color: rgb(109,46,46);
+  font-family: 'Architects Daughter', cursive;
+}
+
+.video{
+  text-align: center;
+}
+
+a{
+  font-family: 'Nanum Gothic', sans-serif;
+  color: blue;
+  font-size: 10px;
+  top: 30px;
+}
+
+footer{
+  width: auto;
+  height: 30px;
+}
+.ig{
+  height: 30px;
+  width: 120px;
+  margin: 800px;
+  padding: 0px;
+}
+
+#webs{
+  float: right;
+}
